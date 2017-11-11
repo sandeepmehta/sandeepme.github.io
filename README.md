@@ -1,2 +1,2 @@
-# sandeepme.github.io
+# sandeepmehta.github.io
 Personal Blog!
